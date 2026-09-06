@@ -1,6 +1,0 @@
-{
-  "name": "DocuFlow - Enterprise RAG & Guardrails Engine",
-  "description": "Enterprise-grade secure RAG platform powered by Google Cloud Vertex AI, Gemini, and Google Cloud Model Armor with Firebase Auth.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
